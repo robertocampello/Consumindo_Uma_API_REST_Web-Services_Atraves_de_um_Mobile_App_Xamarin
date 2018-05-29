@@ -1,4 +1,4 @@
-# Consumindo Uma API REST Web Services Através de um Mobile App Xamarin
+# Consumindo uma API REST Web Services Através de um Mobile App Xamarin
 
 Tutorial demonstrando como consumir uma API REST Web Services através de um aplicativo cliente mobile desenvolvido com Xamarin.
 
@@ -11,3 +11,5 @@ O **Xamarin** é uma tecnologia cross-plataform voltada para o desenvolvimento a
 * Linguagens familiares como **C#**, **[XAML](https://docs.microsoft.com/en-us/dotnet/framework/wpf/advanced/xaml-overview-wpf)**, e **CSS**;
 * Frameworks UI flexíveis para desenvolvimento **Nativo**, **Cross (Xamarin.Forms)** ou **ambos**;
 * Integração com o **Visual Studio 2017** (versão **Windows** ou **Mac**).
+
+![Xamarin](images/1.png)
